@@ -1,0 +1,9 @@
+/* Css for code to have transition color when hovered */
+.code {
+    color: #FFFF;
+    transition: color 0.3s ease-out;
+  }
+  
+  .title:hover .code {
+    color: #df4759;
+  }
