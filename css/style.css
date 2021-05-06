@@ -7,3 +7,16 @@
   .title:hover .code {
     color: #df4759;
   }
+/* End for transition hover */
+
+
+
+/* For Dropdown item to have background when clicked */
+.dropdown-item:active {
+    background-color: #df4759;
+}
+
+
+.footer {
+  background-color: #df4759;
+}
